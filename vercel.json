@@ -1,5 +1,10 @@
 {
   "version": 2,
+  "functions": {
+    "api/quote.js": {
+      "maxDuration": 10
+    }
+  },
   "routes": [
     {
       "src": "/api/quote",
