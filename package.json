@@ -2,6 +2,7 @@
   "name": "vortexflow-api",
   "version": "1.0.0",
   "description": "VortexFlow Labs Quote API",
+  "type": "module",
   "dependencies": {
     "resend": "^2.0.0"
   }
